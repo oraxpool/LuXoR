@@ -1,0 +1,18 @@
+model,hash_rate,cpu,cpu_logical_cores,cpu_physical_cores,cpu_frequency,cpu_l1_cache,cpu_l2_cache,cpu_l3_cache,mem_size,mem_type,mem_config,mem_speed
+Dell XPS 13 9370,"25,000",i5-8250U,8,4,1.6Ghz,256Kb,1Mb,6Mb,8Gb,LPDDR3,2x4Gb,1867Mhz
+ASUS ZenBook 13 UX333FA,"30,000",i7-8565U,8,4,1.8Ghz,,,8Mb,16Gb,,2x8Gb,2133Mhz
+Mac mini 2012,"18,000",,,,,,,,,,,
+Clevo W25xHPx,"30,000",i7-2720QM,8,4,2.20Ghz,,,6Mb,8Gb,DDR3,2x4Gb,1333Mhz
+MSI MS-7C37,"75,000",AMD Ryzen 7 3800X,16,8,3.9Ghz,512Kb,4Mb,32Mb,16Gb,DDR4,2x8Gb,3200Mhz
+Raspberry Pi 4 2GB,"7,200",,,,,,,,,,,
+-,"16,000",i3-6098P,4,2,3.6Ghz,,,3Mb,8Gb,,1x8Gb,2133Mhz
+HP Pavilion 15-n208tu Notebook PC,"15,000",i5-4210U,4,2,1.7Ghz,,,3Mb,4Gb,DDR3,1x4Gb,1600Mhz
+Dell XPS 13 7390,"45,000",i7-10710U,12,6,1.1Ghz,,,12Mb,16Gb,LPDDR3,2x8Gb,2133Mhz
+-,"50,000",AMD Ryzen 5 2600,12,6,3.4Ghz,576Kb,3Mb,16Mb,16Gb,,2x8Gb,2666Mhz
+-,"39,000",AMD FX-8120,8,4,3.8Ghz,384Kb,8Mb,8Mb,8Gb,,2x4Gb,1066Mhz
+DQ77MK,"42,000",i7-2600,8,4,3.4Ghz,,,8Mb,32Gb,DDR3,4x8Gb,1600MHz
+Fujitsu Lifebook E736,"17,000",i5-6300U,4,2,2.4Ghz,,,3Mb,4Gb,,1x4Gb,2133Mhz
+MSI MS-7C02,"84,000",AMD Ryzen 7 3700X,16,8,3.6Ghz,512Kb,4Mb,32Mb,32Gb,,2x16Gb,3200Mhz
+Intel NUC BOXNUC7I3BNH,"26,000",i3-7100U,4,2,2.4Ghz,128Kb,512Kb,3Mb,8Gb,,2x4Gb,2133Mhz
+Intel NUC Barebone BOXNUC7I3BNK,"11,500",i3-7100U,4,2,2.4Ghz,128Kb,512Kb,3Mb,8Gb,,2x4Gb,2133Mhz
+Lenovo Extensa 5635z,"4,400",Pentium T4400 ,2,2,2.2Ghz,,1Mb,,3Gb,,1Gb+2Gb,
